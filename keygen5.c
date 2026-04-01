@@ -1,3 +1,4 @@
+/* https://crackmes.one/upload/solution/69c53f51f2d49d8512f64b7a */
 #include <stdio.h>
 #include <string.h>
 #include <windows.h>
